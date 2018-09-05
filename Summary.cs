@@ -1,11 +1,11 @@
 ﻿using System;
 
-namespace XML_read
+namespace XML_split_price
 {
    
-        class Summary
+        public class Summary
         {
-            public double TotalNetAmount { get; }
+        public double TotalNetAmount;
 
             public Summary(double totalNetAmount)
             {

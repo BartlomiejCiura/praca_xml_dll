@@ -1,10 +1,10 @@
-﻿namespace XML_read
+﻿namespace XML_split_price
 {   
-        class Details
+        public class Details
         {
-            private string InvoiceNumber;
-            private string InvoiceDate;
-            private string InvoicePaymentDueDate;
+            public string InvoiceNumber;
+            public string InvoiceDate;
+            public string InvoicePaymentDueDate;
 
             public Details()
             {

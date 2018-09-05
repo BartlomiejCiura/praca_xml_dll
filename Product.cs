@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace XML_read
+namespace XML_split_price
 {
-        class Product
+        public class Product
         {
             public string ItemDescription; // opis
             public double InvoiceQuantity; // ilość opakowań

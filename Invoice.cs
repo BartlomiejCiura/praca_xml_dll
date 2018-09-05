@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace XML_read
+namespace XML_split_price
 {
-    class Invoice
+    public class Invoice
     {
         public List<Product> products = null;
         public Details details = null;

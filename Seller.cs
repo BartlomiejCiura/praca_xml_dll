@@ -1,4 +1,4 @@
-﻿namespace XML_read
+﻿namespace XML_split_price
 {    
     public class Seller
         {
